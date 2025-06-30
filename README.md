@@ -27,8 +27,8 @@ A clean and responsive emoji-based Rock Paper Scissors game built with HTML, CSS
 ![Gameplay](Images/rps1.png)
 ![Gameplay](Images/rps2.png)
 
+## 🔗 Live Demo
+[Play the Rock-Paper-Scissors Game](https://balubalaji04.github.io/Mini-Game-Project/)
 
-## 🚀 How to Use
-Open `index.html` in your browser—or use Live Server if you're working in VS Code.
 
 
